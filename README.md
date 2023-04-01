@@ -1,2 +1,1 @@
-# acehack
-Repo for hackathon
+TinDog Starting Files
